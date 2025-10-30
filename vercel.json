@@ -1,0 +1,12 @@
+{
+  "builds": [
+    {
+      "src": "book_priest/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "book_priest/dist"
+      }
+    }
+  ],
+  "framework": "vite"
+}

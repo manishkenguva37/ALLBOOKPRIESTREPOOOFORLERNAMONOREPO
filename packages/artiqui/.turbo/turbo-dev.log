@@ -1,0 +1,13 @@
+
+> artiqui@1.0.0 dev
+> vite build --watch
+
+[36mvite v6.4.1 [32mbuilding for production...[36m[39m
+[36m
+watching for file changes...[39m
+[36m
+build started...[39m
+[2K[1Gtransforming (1) [2msrc/routerEngine.js[22m[2K[1Gtransforming (45) [2m../../node_modules/flatpickr/dist/esm/index.js[22m[2K[1G[2K[1G[2K[1G[2K[1G[2K[1Gtransforming (68) [2m../../node_modules/core-js/internals/create-iter-result-object.js[22m[2K[1Gtransforming (145) [2m../../node_modules/core-js/modules/es.iterator.find.js[22m[2K[1G[32m✓[39m 163 modules transformed.
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (2)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mdist/[22m[36mrouter-engine.umd.js  [39m[1m[2m108.43 kB[22m[1m[22m[2m │ gzip: 32.64 kB[22m
+[2K[1Gcomputing gzip size (2)...[2K[1G[2mdist/[22m[36mrouter-engine.es.js  [39m[1m[2m146.15 kB[22m[1m[22m[2m │ gzip: 36.86 kB[22m
+[36mbuilt in 1917ms.[39m

@@ -1,0 +1,20 @@
+{
+  "name": "allbookpriest-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "npm@10.5.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:all": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "vite": "^4.5.14"
+  },
+  "dependencies": {
+    "tinyglobby": "^0.2.15"
+  }
+}
